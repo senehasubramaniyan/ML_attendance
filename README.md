@@ -2,7 +2,7 @@ This repository contains code for facial recognition using openCV and python.
 
 Technology used : -openCV (Opensource Computer Vision) -Python 
 
-If you want to test the code then run Attendance.py file
+If you want to test the code then run AttendanceProject.py file
 
 I am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera.
 
