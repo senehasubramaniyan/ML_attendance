@@ -8,5 +8,5 @@ I am working on Face recognition based Attendance Management System by using Ope
 
 How it works :
 
-When we run attendance.py. Camera of running computer is opened and it start taking image of person.Recognised person name and time will be stored in  Attendance.csv.
+When we run AttendanceProject.py. Camera of running computer is opened and it start taking image of person.Recognised person name and time will be stored in  Attendance.csv.
 It takes images as sample it in the folder imageattendance.  
